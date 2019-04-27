@@ -6,3 +6,6 @@ def very_smart_function():
 
 def very_smart_function_improved():
 	return "even more functionality added"	
+
+def intelligent_function():
+	return "Intelligent import functionality"	
