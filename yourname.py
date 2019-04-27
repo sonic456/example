@@ -3,3 +3,6 @@ def your_name():
 
 def very_smart_function():
 	return "export functionality added"	
+
+def very_smart_function_improved():
+	return "even more functionality added"	
